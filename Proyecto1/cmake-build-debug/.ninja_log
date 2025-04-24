@@ -1,0 +1,27 @@
+# ninja log v6
+18	388	7668301288611291	CMakeFiles/Proyecto1.dir/main.c.obj	bd7abf337c777956
+61	317	7655939590269691	CMakeFiles/Proyecto1.dir/Libraries/VEC.c.obj	a508f0e7e1f997fd
+390	971	7668301292332221	Proyecto1.exe	dc445bcb74f0ec23
+44	433	7666274813120187	CMakeFiles/Proyecto1.dir/Libraries/LEC.c.obj	f92e3ab4cbeac85a
+9	265	7668282815001784	CMakeFiles/Proyecto1.dir/Libraries/TRA.c.obj	48d59e99d21cee67
+308	980	7670549374370649	CMakeFiles/Proyecto1.dir/Libraries/LEC.c.obj	f92e3ab4cbeac85a
+278	1031	7670549374060940	CMakeFiles/Proyecto1.dir/Libraries/VEC.c.obj	a508f0e7e1f997fd
+259	1033	7670549373871097	CMakeFiles/Proyecto1.dir/Libraries/TRA.c.obj	48d59e99d21cee67
+230	1058	7670549373586054	CMakeFiles/Proyecto1.dir/main.c.obj	bd7abf337c777956
+1058	1955	7670549381860070	Proyecto1.exe	dc445bcb74f0ec23
+140	781	7670550005119957	CMakeFiles/Proyecto1.dir/Libraries/TRA.c.obj	48d59e99d21cee67
+783	1186	7670550011547254	Proyecto1.exe	dc445bcb74f0ec23
+24	534	7670550877972054	CMakeFiles/Proyecto1.dir/Libraries/TRA.c.obj	48d59e99d21cee67
+535	1087	7670550883078130	Proyecto1.exe	dc445bcb74f0ec23
+18	417	7670558177371896	CMakeFiles/Proyecto1.dir/Libraries/TRA.c.obj	48d59e99d21cee67
+418	815	7670558181359953	Proyecto1.exe	dc445bcb74f0ec23
+65	447	7670559553829787	CMakeFiles/Proyecto1.dir/Libraries/TRA.c.obj	48d59e99d21cee67
+448	830	7670559557652252	Proyecto1.exe	dc445bcb74f0ec23
+59	442	7670566492524780	CMakeFiles/Proyecto1.dir/Libraries/LEC.c.obj	f92e3ab4cbeac85a
+73	441	7670567301920621	CMakeFiles/Proyecto1.dir/main.c.obj	bd7abf337c777956
+84	350	7670568862460912	CMakeFiles/Proyecto1.dir/Libraries/TRA.c.obj	48d59e99d21cee67
+67	408	7670568862285550	CMakeFiles/Proyecto1.dir/main.c.obj	bd7abf337c777956
+60	356	7670576867669999	CMakeFiles/Proyecto1.dir/Libraries/TRA.c.obj	48d59e99d21cee67
+358	738	7670576870645059	Proyecto1.exe	dc445bcb74f0ec23
+89	468	7670577316554317	CMakeFiles/Proyecto1.dir/Libraries/TRA.c.obj	48d59e99d21cee67
+470	930	7670577320351912	Proyecto1.exe	dc445bcb74f0ec23
